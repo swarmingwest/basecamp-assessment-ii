@@ -2,7 +2,7 @@
 
 var me = {
   firstName: 'Rhiannon',
-  age: 43,
+  age: 42,
   State: 'Colorado'
 };// CODE HERE
 // #2 Add a new key/value pair to the me object using dot notation. The new key should be 'faveColor' and set it to your favorite color as a string
